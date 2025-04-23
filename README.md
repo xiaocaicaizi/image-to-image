@@ -16,7 +16,3 @@ step2: 启动gradio服务
 python gradio_server.py
 ```
 
-# 效果展示
-
-https://github.com/user-attachments/assets/bed246ba-36c2-4a6a-896d-6e02002e7eba
-
